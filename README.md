@@ -25,7 +25,7 @@ set up you firebase details
 npm run dev
 
 ## Vercel deployed link
-
+https://vibe-check-eto8.vercel.app/
 
 ## Ouptuts:
 
